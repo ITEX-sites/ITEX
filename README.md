@@ -1,16 +1,19 @@
 last updated: 27 Oct 2022 (NC)
 
-# Garibaldi
+# ITEX
 
-Repository for data processing and analyses Garibaldi ITEX site. 
+Repository with instructions on linking data and code from International Tundra Experiment (ITEX) sites. 
 
-## Site Information
+Contributors: Nathalie Chardon (nathalie.chardon@gmail.com)
 
-Location: Garibaldi Provincial Park (Nch'kay), British Columbia, Canada
+## Outside repository links
 
-Year established: 2022
+Please paste your repository link below. If you want to formally link your repository, please see below.
 
-Greg Henry (greg.henry@ubc.ca),
-Cassandra Elphinstone (cassandra.elphinstone@shaw.ca),
-Courtney Collins (courtney.collins@botany.ubc.ca),
-Nathalie Isabelle Chardon (nathalie.chardon@gmail.com)
+### Alexandra Fjord
+
+https://github.com/TundraEcologyLab/AF_database/tree/master/formating_scripts
+
+## Linking your repository
+
+[Description in progress]
