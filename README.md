@@ -10,12 +10,14 @@ Note to contributors: Please list site folders here with a description and conta
 
 ### Contributors
 
-Cassandra Elphinstone (cassandra.elphinstone@shaw.ca)
-Courtney Collins (courtney.collins@botany.ubc.ca)
+Cassandra Elphinstone (cassandra.elphinstone@shaw.ca),
+Courtney Collins (courtney.collins@botany.ubc.ca),
 Nathalie Isabelle Chardon (nathalie.chardon@gmail.com)
 
 ## Alexandra Fjord
 
-Greg Henry (greg.henry@ubc.ca)
+Greg Henry (greg.henry@ubc.ca),
 Cassandra Elphinstone (cassandra.elphinstone@shaw.ca)
+
+Link to repo: https://github.com/TundraEcologyLab/AF_database/tree/master/formating_scripts
 
