@@ -8,12 +8,12 @@ Contributors: Nathalie Chardon (nathalie.chardon@gmail.com)
 
 ## Outside repository links
 
-Please paste your repository link below. If you want to formally link your repository, please see below.
+Please paste your repository link below. If you want to formally transfer your repository, please see below.
 
 ### Alexandra Fjord
 
 https://github.com/TundraEcologyLab/AF_database/tree/master/formating_scripts
 
-## Linking your repository
+## Transferring your repository
 
-[Description in progress]
+Please see this link for instructions on how to transfer your existing repository to the organization 'ITEX': https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
