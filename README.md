@@ -10,9 +10,10 @@ Contributors: Nathalie Chardon (nathalie.chardon@gmail.com)
 
 Please paste your repository link below. If you want to formally transfer your repository, please see below.
 
-### Alexandra Fjord
+### Alexandra Fiord
 
 https://github.com/TundraEcologyLab/AF_database/tree/master/formating_scripts
+Keywords: TOMST, hobo, OTC, community composition, phenology, general formatting 
 
 ### OTC synthesis 
 https://github.com/cour10eygrace/OTC_synthesis_analyses
