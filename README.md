@@ -1,5 +1,3 @@
-last updated: 27 Oct 2022 (NC)
-
 # ITEX
 
 Repository linking data and code from International Tundra Experiment (ITEX) sites. 
