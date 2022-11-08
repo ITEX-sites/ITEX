@@ -13,10 +13,11 @@ Add your site/repo name and link with the following structure:
 
 ### SITE/REPO NAME <br />
 https://github.com/enter-your-repository-address-here <br />
-Keywords: 2-10 keywords describing the type of data or analysis code included in the repository
-Papers published from this repo (optional) <br />
+Keywords: 2-10 keywords describing the type of data or analysis code included in the repository <br />
+Papers published from this repo (optional) 
 
-Click ‘preview’ to make sure it looks good. Click 'commit changes' button.
+Click ‘preview’ to make sure it looks good. <br />
+Click 'commit changes' button.
 
 ### Transferring your repository
 
@@ -36,8 +37,8 @@ Please contact one of the contributors of ITEX-sites with your GitHub username t
 
 ### OTC Phenology Synthesis (2021)
 https://github.com/cour10eygrace/OTC_synthesis_analyses <br />
-Keywords: phenology, synthesis, OTC
-Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  <br />
+Keywords: phenology, synthesis, OTC <br />
+Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  
 
 
 ## Sites
