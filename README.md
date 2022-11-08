@@ -16,11 +16,20 @@ https://github.com/enter-your-repository-address-here <br />
 papers published from this repo (optional) <br />
 Keywords: 2-10 keywords describing the type of data or analysis code included in the repository
 
-Click ‘preview’ to make sure it looks good.
-Click commit changes button.
+Click ‘preview’ to make sure it looks good. Click 'commit changes' button.
 
 ### Transferring your repository
-If you have any interest in transferring ownership of your repository to ITEX-sites, please see this link for instructions on how to transfer your existing repository to the organization 'ITEX-sites': https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
+
+If you would like to transfer ownership of your repository to ITEX-sites, please see this link for instructions on how to transfer your existing repository to the organization 'ITEX-sites': https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
+
+### Creating a new repository
+
+If you would like to contribute code but do not yet have a repository, sign up for a GitHub account and create a new repository under your account OR under ITEX-sites (must be a member for this, see below). You can then upload your code to that repository.
+
+
+### Joining the GitHub organisation ITEX-sites
+
+Please contact one of the contributors of ITEX-sites with your GitHub username to be added as a member. Members can modify all content within ITEX-sites, but cannot modify any linked repositories listed here unless specifically given permissions. 
 
 
 ## Syntheses
