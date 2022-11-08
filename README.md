@@ -7,14 +7,14 @@ Repository linking data and code from International Tundra Experiment (ITEX) sit
 
 ### Manually adding your respository 
 
-To manually add your repo link on the GitHub web interface click the pencil icon on the README.md. 
+To manually add your repo link on the GitHub web interface click the pencil icon in the upper right corner of this README.md. 
 
 Add your site/repo name and link with the following structure: 
 
 ### SITE/REPO NAME <br />
 https://github.com/enter-your-repository-address-here <br />
-papers published from this repo (optional) <br />
 Keywords: 2-10 keywords describing the type of data or analysis code included in the repository
+Papers published from this repo (optional) <br />
 
 Click ‘preview’ to make sure it looks good. Click 'commit changes' button.
 
@@ -36,8 +36,8 @@ Please contact one of the contributors of ITEX-sites with your GitHub username t
 
 ### OTC Phenology Synthesis (2021)
 https://github.com/cour10eygrace/OTC_synthesis_analyses <br />
-Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  <br />
 Keywords: phenology, synthesis, OTC
+Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  <br />
 
 
 ## Sites
