@@ -1,9 +1,27 @@
-# ITEX
+# ITEX Sites data and code
+Repository linking data and code from International Tundra Experiment (ITEX) sites and syntheses.
 
-Repository linking data and code from International Tundra Experiment (ITEX) sites. Please see the main page of ITEX-sites for any additional repositories that directly belong to ITEX-sites.
+## Syntheses
+
+### OTC Phenology Synthesis (2021)
+https://github.com/cour10eygrace/OTC_synthesis_analyses <br />
+Keywords: phenology, synthesis, OTC <br />
+Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  
 
 
-## Adding your information
+## Sites
+
+### Alexandra Fiord, Nunavut, Canada
+https://github.com/TundraEcologyLab/ <br />
+Keywords: TOMST, hobo, OTC, community composition, phenology, general formatting 
+
+### Garibaldi Park, BC, Canada
+https://github.com/ITEX-sites/Garibaldi <br />
+Keywords: TOMST, OTC, community composition, phenology
+
+
+
+####################################################################################
 
 ### Manually adding your respository 
 
@@ -32,19 +50,5 @@ If you would like to contribute code but do not yet have a repository, sign up f
 
 Please contact one of the contributors of ITEX-sites with your GitHub username to be added as a member. Members can modify all content within ITEX-sites, but cannot modify any linked repositories listed here unless specifically given permissions. 
 
-
-## Syntheses
-
-### OTC Phenology Synthesis (2021)
-https://github.com/cour10eygrace/OTC_synthesis_analyses <br />
-Keywords: phenology, synthesis, OTC <br />
-Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  
-
-
-## Sites
-
-### Alexandra Fiord
-https://github.com/TundraEcologyLab/AF_database/tree/master/formating_scripts <br />
-Keywords: TOMST, hobo, OTC, community composition, phenology, general formatting 
 
 
