@@ -8,6 +8,22 @@ https://github.com/cour10eygrace/OTC_synthesis_analyses <br />
 Keywords: phenology, synthesis, OTC <br />
 Collins et al. (2021) Experimental warming differentially affects vegetative and reproductive phenology of tundra plants. Nature Communications, 12:3442.  
 
+### Phenology Synthesis (2020)
+https://doi.org/10.21963/13215 <br />
+Keywords: phenology, synthesis <br />
+Prevey et al. (2021) The tundra phenology database: more than two decades of tundra phenology responses to climate change. https://cdnsciencepub.com/doi/full/10.1139/as-2020-0041 
+
+### Trait Synthesis (2018)
+https://tundratraitteam.github.io/ <br />
+https://github.com/ShrubHub/TraitHub <br />
+Keywords: traits, plant height, leaf area, specific leaf area, leaf fresh and dry mass, leaf dry matter content, leaf nitrogen, carbon and phosphorus content, leaf C:N and N:P, seed mass, and stem specific density, synthesis <br />
+Bjorkman et al. (2018) Tundra Trait Team: A database of plant traits spanning the tundra biome. https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12821
+
+### Global Tundra Vegetation Change (2012) - 30 years of plant abundance data from unmanipulated and experimentally-warmed plots
+https://www.polardata.ca/pdcsearch/PDCSearch.jsp?doi_id=10786 <br />
+Keywords: point frame, community composition, synthesis, OTC <br />
+Elmendorf, et al., 2012. Global Tundra Vegetation Change - 30 years of plant abundance data from unmanipulated and experimentally-warmed plots.  
+
 
 ## Sites
 
