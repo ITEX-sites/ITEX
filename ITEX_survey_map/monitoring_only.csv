@@ -1,0 +1,28 @@
+"PI","email","site_name","latitude","longitude","elevation (m.a.s.l)","OTCs","experimental manipulations","data collected in plots","data collected in site","common genera"
+"Sonja Wipf","wipf@slf.ch","Stillberg snow manipulation experiment",46.77224,9.86569,2220,"Long-term monitoring only","Snow removal","","Individual plant phenology, Plot photos, Plant abundance measure (other than point framing), Lichen cover, Bryophyte cover, Litter bags, Indidvidual growth","Vaccinium, Empetrum, Rhododendron, Carex, Loiseleuria, Helictotrichum"
+"Friederike Gehrmann","cassandra.elphinstone@shaw.ca","Kilpisjorvi Finland II",69.0443,20.8033,700,"Long-term monitoring only","","","","Salix, Betula, Cassiope, Vaccinium, Saxifraga, Silene"
+"Laura Gough, Ed Rastetter, Donie Bret-Harte","cassandra.elphinstone@shaw.ca","Toolik, Alaska",68.633333,-149.566667,730,"Long-term monitoring only","","","","Salix, Betula, Cassiope, Vaccinium, Carex, Poa, Juncus, Bryophytes, Lichen"
+" Per Molgaard","cassandra.elphinstone@shaw.ca","Disko, Greenland",69.8265,-53.4334,100,"Long-term monitoring only","","","","Salix, Papaver"
+"Ned Fetcher","ned.fetcher@wilkes.edu","Alaska Eriophorum vaginatum Transplant Garden Coldfoot",67.258367,-150.16825,320,"Long-term monitoring only",,"Individual plant phenology, Above ground plant traits, Plot photos, Litter bags","Fine-scale geospatial data (GPS points for each plot), Common garden experiment, Reciprocal transplant experiment","Salix, Betula, Vaccinium, Rhododendron, Carex, Eriophorum, Bryophytes, Lichen, Rubus"
+"Ned Fetcher, Jianwu (Jim) Tang, Michael Moody","cassandra.elphinstone@shaw.ca","Alaska Ecotypes Alaska Ecotypes Coldfoot",67.2586,-150.1698,320,"Long-term monitoring only",,,,"Salix, Betula, Vaccinium, Carex, Bryophytes, Lichen"
+"Nicoletta Cannone","cassandra.elphinstone@shaw.ca","Foscagno Pass/Stelvio Pass Foscagno Pass",46.066667,10.033333,2400,"Long-term monitoring only",,,,"Salix, Vaccinium, Carex, Poa, Saxifraga, Silene, Cerastium, Oxyria, Bryophytes, Lichen"
+"Anders Michelsen, Bo Elberling","cassandra.elphinstone@shaw.ca","Disko Disko (mesic-dry heath tundra)",69.266667,-53.45,95,"Long-term monitoring only","Snow fences",,,"Dryas, Salix, Betula, Cassiope, Vaccinium, Carex, Poa, Bryophytes, Lichen"
+"Anders Michelsen, Bo Elberling","cassandra.elphinstone@shaw.ca","Disko Disko (wet sedge tundra) ",69.433333,-53.783333,85,"Long-term monitoring only","Snow fences",,,"Salix, Carex, Juncus, Equisetum, Bryophytes, Lichen"
+"Christopher Kopp","cassandra.elphinstone@shaw.ca","White Mountains Fellfield",37.5,-118.17,3100,"Long-term monitoring only",,,,
+"Christopher Kopp","cassandra.elphinstone@shaw.ca","White Mountains Shrubland ",37.5,-118.17,3700,"Long-term monitoring only",,,,
+"Isla Myers-Smith","cassandra.elphinstone@shaw.ca","Qikiqtaruk - Herschel Island SALARC",69.5757167,-138.9045667,42,"Long-term monitoring only",,,,
+"Isla Myers-Smith","cassandra.elphinstone@shaw.ca","Qikiqtaruk - Herschel Island ERIVAG",69.57785,-138.9121667,68,"Long-term monitoring only",,,,
+"Isla Myers-Smith","cassandra.elphinstone@shaw.ca","Qikiqtaruk - Herschel Island DRYINT",69.5757167,-138.9052167,42,"Long-term monitoring only",,,,
+"Sarah Elmendorf","cassandra.elphinstone@shaw.ca","Niwot Ridge Dry Fellfield",40.0548849,-105.5880266,3535,"Long-term monitoring only",,,,
+"Sarah Elmendorf","cassandra.elphinstone@shaw.ca","Niwot Ridge Dry Meadow",40.0554251,-105.5888966,3529,"Long-term monitoring only",,,,
+"Sarah Elmendorf","cassandra.elphinstone@shaw.ca","Niwot Ridge Moist Meadow",40.05473969,-105.5901614,3525,"Long-term monitoring only",,,,
+"Sarah Elmendorf","cassandra.elphinstone@shaw.ca","Niwot Ridge Moist Shrub Tundra",40.05619788,-105.589602,3528,"Long-term monitoring only",,,,
+"Sarah Elmendorf","cassandra.elphinstone@shaw.ca","Niwot Ridge Snowbed",40.0569184,-105.5908668,3537,"Long-term monitoring only",,,,
+"Sarah Elmendorf","cassandra.elphinstone@shaw.ca","Niwot Ridge Snow Fence",40.05659895,-105.5895581,3524,"Long-term monitoring only",,,,
+"Robert Bjork and Mats Bjorkman","cassandra.elphinstone@shaw.ca","Latnjajaure Lapland",68.35,18.48,1000,"Long-term monitoring only",,,,
+"Ingibjorg Jonsdottir","cassandra.elphinstone@shaw.ca","Endalen, Svalbard Cassiope High",78.187445,15.75835,100,"Long-term monitoring only",,,,
+"Ingibjorg Jonsdottir","cassandra.elphinstone@shaw.ca","Endalen, Svalbard Fellfield",78.187445,15.75835,100,"Long-term monitoring only",,,,
+"Ingibjorg Jonsdottir","cassandra.elphinstone@shaw.ca","Endalen, Svalbard Snowbed High",78.187445,15.75835,100,"Long-term monitoring only",,,,
+"Greg Henry","cassandra.elphinstone@shaw.ca","Ellesmere Island Sverdrup Pass ",79.1167,-80.6667,,"Long-term monitoring only",,,,
+"Greg Henry","cassandra.elphinstone@shaw.ca","Ellesmere Island Princess Marie Bay ",79.3333,-76,,"Long-term monitoring only",,,,
+"Greg Henry","cassandra.elphinstone@shaw.ca","Ellesmere Island Hot Weather Creek ",80.25,-85,,"Long-term monitoring only",,,,
