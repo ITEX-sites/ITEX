@@ -123,8 +123,8 @@ write.csv(all_locs%>%filter(OTCs=='Experimental warming'), 'experimental_warming
 
 write.csv(all_locs%>%filter(OTCs!='Experimental warming'), 'monitoring_only.csv', row.names=FALSE, na='')
 
-#embed on map
+# embed on map
 # open arcgis online
 # new map (or edit ITEX)
-#add -> upload each csv
+# add -> upload each csv
 # symbols - current size is 12, otc mapped to red, ctl only to blue.
