@@ -5,7 +5,7 @@ library (tidyr)
 #wrote code to read singles directly
 #download the responses from HERE:
 #https://docs.google.com/spreadsheets/d/1o8CtBehHLrxnbVX6FUPiAHdIuoUihQhp8YFWE3WuZV4/edit#gid=1881943992
-itex_locs=read.csv('ITEX research site survey 2019 (Responses) - Form Responses.csv')[,c(1:201)]
+itex_locs=read.csv('ITEX research site survey 2019 (Responses).csv')[,c(1:201)]
 nm=read_excel('rename.xlsx', col_names=FALSE)
 
 #nm=read.csv('clipboard', header=FALSE)
